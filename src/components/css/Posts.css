@@ -1,0 +1,19 @@
+.loader {
+  margin: 20px;
+  color: grey;
+  margin-bottom: 50px;
+  cursor: pointer;
+  background-color: transparent;
+  transition: all 0.3s ease-out;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+
+.loader:hover {
+  background-color: darkslategray;
+  color: white;
+}
+
+.loader-box {
+  padding: 25px;
+}
