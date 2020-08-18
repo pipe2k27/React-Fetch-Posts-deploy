@@ -13,7 +13,7 @@ export default function Navbar() {
   return (
     <div className="header" id="header">
       <img
-        src={process.env.PUBLIC_URL + "/images/logo-white.png"}
+        src={process.env.PUBLIC_URL + "/images/logo-White.png"}
         alt="logo-word"
         className="logo-word"
       ></img>
